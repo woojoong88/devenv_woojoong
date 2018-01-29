@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/woojoongkim/workspace/dev_env/tmux-config/tmux'
+let g:netrw_dirhist_2='/Users/woojoongkim/workspace/dev_env/Vundle.vim/test'
+let g:netrw_dirhist_3='/Users/woojoongkim/.vim'
+let g:netrw_dirhist_4='/Users/woojoongkim/workspace/dev_env'
